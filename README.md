@@ -27,18 +27,20 @@ The module will include cover the following topics:
 |2022-10-19 Wed | Visualization etc.|James Percival| Parastoo Salah |
 |2022-10-20 Thu | Software Engineering |James Percival| Rhodri Nelson |
 
+
 ## Teaching Timetable
 
-||Monday|Tuesday|Wednesday|Thusday|Friday|
-|---|---|---|---|---|---|
-|9:00 am| Lecture | Lecture | Lecture | Lecture| Lecture|
-|10:00 am| GTA study | GTA study | Lecture | GTA study | GTA study |
-|11:00 am| Lecture |Lecture | Lecture | Lecture| Lecture|
-|12:00 pm| Lunch/self-study| Lunch/self-study| Lunch/self-study| Lunch/self-study| Lunch/self-study|
-|1:00 pm| Lunch/self-study| Lunch/self-study| Lunch/self-study| Lunch/self-study| Lunch/self-study|
-|2:00 pm| Lecture | Lecture | Self-study/societies | Lecture| Lecture|
-|3:00 pm| GTA study | GTA study | Self-study/societies | GTA study | GTA study |
-|4:00 pm| GTA study | GTA study | Self-study/societies | GTA study | GTA study |
+||Monday|Tuesday|Wednesday|Thusday|
+|---|---|---|---|---|
+|9:00 am| Lecture | Lecture | Lecture | Lecture| 
+|10:00 am| GTA study | GTA study | Lecture | GTA study | 
+|11:00 am| Lecture |Lecture | Lecture | Lecture|
+|12:00 pm| Lunch/self-study| Lunch/self-study| Lunch/self-study| Lunch/self-study|
+|1:00 pm| Lunch/self-study| Lunch/self-study| Lunch/self-study| Lunch/self-study|
+|2:00 pm| Lecture | Lecture | Self-study/societies | Lecture|
+|3:00 pm| GTA study | GTA study | Self-study/societies | GTA study | 
+|4:00 pm| GTA study | GTA study | Self-study/societies | GTA study | 
+
 
 ## Assessment exercises
 

@@ -21,8 +21,8 @@ The module will include cover the following topics:
 |2022-10-10 Mon | All the CS you need to know| James Percival|Marijan Beg|
 |2022-10-11 Tue | Pandas| Parastoo Salah | James Percival|
 |2022-10-12  Wed | Debugging | Rhodri Nelson | Marijan Beg|
-|2022-10-13 Thu | Data Scructures| James Percival | Parastoo Salah |
-|2022-10-17 Mon | Python scripts & Modules | Parastoo Salah | Marijan Beg|
+|2022-10-13 Thu | Data Structures| James Percival | Parastoo Salah |
+|2022-10-17 Mon | Python Scripts & Modules | Parastoo Salah | Marijan Beg|
 |2022-10-18 Tue | Algorithms|Marijan Beg| James Percival|
 |2022-10-19 Wed | Visualization etc.|James Percival| Parastoo Salah |
 |2022-10-20 Thu | Software Engineering |James Percival| Rhodri Nelson |
@@ -48,5 +48,5 @@ Assessment will be 100% by coursework completed during the course. Exercises wil
 
 |Release Date  | Due Date            | Topic                             |
 |--------------|---------------------|-----------------------------------|
-|2022-10-11 Tue| 2022-10-14 16:00 Fri| Using pandas|
+|2022-10-12 Wed| 2022-10-14 16:00 Fri| Using Pandas|
 |2022-10-18 Tue| 2022-10-21 16:00 Fri| Writing a Python module|
